@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 Base path: 'C:/Program Files/Unity/2020.1.4f1/Editor/Data', plugins path ''
-=======
-<<<<<<< HEAD
-Base path: 'C:/Program Files/Unity/Hub/Editor/2020.1.4f1/Editor/Data', plugins path ''
-=======
-Base path: 'C:/Program Files/Unity/2020.1.4f1/Editor/Data', plugins path 'C:/Program Files/Unity/2020.1.4f1/Editor/Data/PlaybackEngines'
->>>>>>> SheepFeature
->>>>>>> e2ec1e36302425a9f37e343eaf3911d627621a8a
 Cmd: initializeCompiler
