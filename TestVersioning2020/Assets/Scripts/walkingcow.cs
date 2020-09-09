@@ -16,8 +16,8 @@ public class walkingcow : MonoBehaviour
     {
         if (vacheMarche)
         {
-            vacheMagique = 5
-            vitesseVache = 12
+            vacheMagique = 5;
+            vitesseVache = 12;
         }
     }
 
